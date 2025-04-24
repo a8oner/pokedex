@@ -1,4 +1,4 @@
-# a_proje
+# pokedex_proje
 
 A new Flutter project.
 
